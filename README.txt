@@ -28,7 +28,7 @@ Move into your desired directory:
 $ cd <path-to-your-desired-directory>
 
 Download the project:
-git clone https://github.com/arturwolek/optimalRID.git
+git clone https://github.com/robotics-uncc/ODTSP
 
 First install/build libODTSP:
 $ cd optimalRID
