@@ -31,8 +31,6 @@ Download the project:
 git clone https://github.com/robotics-uncc/ODTSP
 
 First install/build libODTSP:
-$ cd optimalRID
-$ cd libODTSP
 $ . install_deps.sh 
 
 This should complete the install and build. 
@@ -40,9 +38,6 @@ This should complete the install and build.
 ----------------------------------------------------------
 
 To modify and re-build project:
-
-Move into the libODTSP folder
-$ cd libODTSP
 
 Clean all the build files
 $ . clean.sh -all
